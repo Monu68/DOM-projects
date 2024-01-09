@@ -1,0 +1,55 @@
+body{
+    background-color: gray;
+    margin: 100px 0 25px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.calculate{
+    cursor: pointer;
+    height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+
+#bmi{
+    height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    
+    
+}
+#bmi2{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      
+    
+}
+#heading{
+    color:chartreuse;
+    height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+
+#results{
+    color: white;
+    font:icon;
+}
+#print{
+    color:maroon
+}
